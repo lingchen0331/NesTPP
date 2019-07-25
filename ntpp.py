@@ -17,8 +17,8 @@ _E = 10**(-10)
 SCALE = 0.001
 MAX_ITER = 1000
 MAX_FUN = 1000
-PATH = '/home/chen/Documents/nested_hawkes/'
-PATH_movie = '/home/chen/Documents/nested_hawkes/data/Avengers/'
+PATH = '/nested_hawkes/'
+PATH_movie = '/nested_hawkes/data/Avengers/'
 
 
 def get_associated_replies(main_dataframe, reply_dataframe):
