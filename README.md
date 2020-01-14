@@ -24,7 +24,8 @@ It is recommended to use [Anaconda](https://www.anaconda.com/) since it includes
 The data used in this project can be downloaded from this
  [link](https://drive.google.com/open?id=1snS-6f_0EoxcMfN9_Hiw9NxkTX8ha-m5).
  
-We also present the data preprocessing program *data_cleaner.py* which provides the necessary procedure of producing the model-required Reddit data retrived from [Pushshift API](https://github.com/pushshift/api).
+To produce the model-required Reddit data, one can also utilize [Pushshift API](https://github.com/pushshift/api) to download Reddit threads and reply data in a given time range of different subforums.
+
 
 ### Train Models
 To train the model, try to run the ntpp.py.
